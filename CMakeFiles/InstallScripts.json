@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ander/Documents/MEGA/MSc/1st semester/Courses/Game programming/Repositories/Course repository/game-programming-25/cmake_install.cmake",
+		"C:/Users/ander/Documents/MEGA/MSc/1st semester/Courses/Game programming/Repositories/Course repository/game-programming-25/lib/SDL/cmake_install.cmake",
+		"C:/Users/ander/Documents/MEGA/MSc/1st semester/Courses/Game programming/Repositories/Course repository/game-programming-25/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

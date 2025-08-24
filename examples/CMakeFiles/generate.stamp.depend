@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/FeatureSummary.cmake
+C:/Users/ander/Documents/MEGA/MSc/1st semester/Courses/Game programming/Repositories/Course repository/game-programming-25/examples/CMakeLists.txt
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3Config.cmake
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3ConfigVersion.cmake
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3sharedTargets.cmake
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3staticTargets-release.cmake
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3staticTargets.cmake
+C:/msys64/mingw64/lib/cmake/SDL3/SDL3testTargets.cmake
